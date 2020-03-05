@@ -1,3 +1,3 @@
 # uHost_CSS_WebApp
 
-Intermediate level CSS learning. Deneme
+Intermediate level CSS learning.
